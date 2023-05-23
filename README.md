@@ -1,4 +1,7 @@
-
+[Скачать] ZIP образ
+Для разпаковки архива
+$ unzip GPT-1.zip
+https://github.com/Dimachuo/GPT-1/blob/main/GPT-1.zip
 
 [Для использовавния GPT]
 1) $ cd GPT
@@ -25,7 +28,7 @@
  
  $ cd CHATGPT-OpenAI-URL && bash CHATGPT.sh
  
- 
+ V 1.0 GPT
  
 
 
