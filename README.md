@@ -2,7 +2,7 @@
 Для разпаковки архива
 
 
-$ wget https://github.com/Dimachuo/GPT-1/blob/main/GPT-1.zip
+$ wget https://github.com/Dimachuo/GPT-1/raw/main/GPT-1.zip
 $ unzip GPT-1.zip
 
 
