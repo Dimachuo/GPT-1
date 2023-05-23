@@ -31,7 +31,7 @@ $ unzip GPT-1.zip
  
  $ cd CHATGPT-OpenAI-URL && bash CHATGPT.sh
  
- V 1.0 GPT
+ V 1.0 GPT {Termux}
  
 
 
